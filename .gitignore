@@ -32,3 +32,6 @@
 *.ap
 out/*
 
+# vim cache
+*.swp
+
