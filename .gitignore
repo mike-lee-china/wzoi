@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.ap
-out/*
+main
 
 # vim cache
 *.swp
