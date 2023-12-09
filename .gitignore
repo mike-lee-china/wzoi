@@ -35,3 +35,10 @@ main
 # vim cache
 *.swp
 
+#build dir
+build
+
+#vscode
+.vscode
+.cache
+
